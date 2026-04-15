@@ -1,9 +1,7 @@
-import Image from "next/image";
+
 
 export default function Home() {
   return (
-    <>
-   <h1>  Hello Deepak</h1>
-    </>
+   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus ex, delectus eligendi debitis non incidunt dolorum quisquam voluptas aspernatur dolorem adipisci quae, quis corrupti! Nostrum, reprehenderit! Voluptate excepturi iste tempora.</p>
   );
 }
