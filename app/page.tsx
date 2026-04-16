@@ -4,6 +4,7 @@ export default function Home() {
       <h1>
         Login The Page
       </h1>
+      <button>Login</button>
     </>
 
   );
